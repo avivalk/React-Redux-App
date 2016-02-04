@@ -1,7 +1,7 @@
 {
-  "name": "react-Redux-App",
+  "name": "React-Redux-App",
   "version": "1.0.0",
-  "description": "Basic React-Redux app",
+  "description": "Simple React-Redux app",
   "main": "index.js",
   "repository": "git@github.com:avivalk/React-Redux-App.git",
   "scripts": {
@@ -23,6 +23,7 @@
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "^4.0.0",
-    "redux": "^3.0.4"
+    "redux": "^3.0.4",
+    "youtube-api-search": "0.0.5"
   }
 }
