@@ -1,6 +1,6 @@
-# Youtube-React-Redux-App
+# Youtube-React-App
 
-###An app that simulates the Youtube experience using the Youtube API, written in React and Redux###
+###An app that simulates the Youtube experience using the Youtube API, written in React ###
 
 ###Getting Started###
 
